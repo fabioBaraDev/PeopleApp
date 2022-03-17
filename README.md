@@ -1,4 +1,4 @@
-coding-test-data.txtcoding-test-data.txtcoding-test-data.txt# Neginet code challenge 
+# Neginet code challenge 
 
 * That is a Maven project developed  with Java 8
 * This project has been developed with Domain concepts
