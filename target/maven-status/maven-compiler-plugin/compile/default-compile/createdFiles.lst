@@ -1,0 +1,16 @@
+com/neginet/people/repository/impl/FileSystemRespoitory.class
+com/neginet/people/domain/CommonNames.class
+com/neginet/people/App.class
+com/neginet/people/domain/Person.class
+com/neginet/people/controller/Controller$3.class
+com/neginet/people/controller/Controller$1.class
+com/neginet/people/service/impl/ServiceImpl.class
+com/neginet/people/repository/Repository.class
+com/neginet/people/domain/mappers/PeopleMapper$1.class
+com/neginet/people/domain/mappers/PeopleMapper.class
+com/neginet/people/domain/mappers/PersonMapper.class
+com/neginet/people/service/Service.class
+com/neginet/people/controller/Controller.class
+com/neginet/people/controller/Controller$2.class
+com/neginet/people/domain/mappers/TransactionType.class
+com/neginet/people/domain/People.class
